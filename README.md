@@ -23,7 +23,7 @@
 
 ## 2. 建立 Google App Script
 
-### 2-1 點擊 [此處](https://raw.githubusercontent.com/orientalist/25sprout/main/backend/hookSwitcher/index.js) ****後會跳出一程式碼頁面，全選複製所有程式碼****
+### 2-1 點擊 [此處](https://raw.githubusercontent.com/orientalist/surveycakeHookSwitcher/main/index.js) ****後會跳出一程式碼頁面，全選複製所有程式碼****
 
 ![螢幕擷取畫面_20230204_080921.png](%E5%95%8F%E5%8D%B7%E9%80%81%E5%87%BA%E5%BE%8C%E5%91%BC%E5%8F%AB%E5%A4%9A%E5%80%8B%20Webhook%208b130db62f46428487224d4ec601b233/%25E8%259E%25A2%25E5%25B9%2595%25E6%2593%25B7%25E5%258F%2596%25E7%2595%25AB%25E9%259D%25A2_20230204_080921.png)
 
